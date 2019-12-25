@@ -6,4 +6,4 @@ The source code can be easily expand to other similar systems with slightly modi
 ```
 asdfjhadf
 ```
-![image](www.baidu.com)
+![image](https://github.com/he-guojian/firsttest/blob/master/%E5%9B%BE%E7%89%871.png)
